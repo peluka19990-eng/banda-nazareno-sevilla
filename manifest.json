@@ -1,0 +1,23 @@
+JSON
+{
+  "name": "Banda Jesús Nazareno",
+  "short_name": "Banda Nazareno",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b132b",
+  "theme_color": "#5c061c",
+  "icons": [
+    {
+      "src": "https://peluka19990-eng.github.io/banda-nazareno-sevilla/apple-touch-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://peluka19990-eng.github.io/banda-nazareno-sevilla/apple-touch-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
